@@ -1,2 +1,2 @@
 #!/bin/zsh
-la -l 
+ls -l 
