@@ -1,0 +1,3 @@
+#!/bin/bash
+
+alias ls='' #Comprends pas l'alias qu'on me demande de creer
